@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="단일 파일을 이동시키는 경우 1" errors="0" tests="3" failures="0" time="0.006" timestamp="2016-08-02T17:25:11">
+  <testcase classname="단일 파일을 이동시키는 경우 1" name="프로그래스바를 띄운다." time="0.003"></testcase>
+  <testcase classname="단일 파일을 이동시키는 경우 1" name="프로그래스바를 GIF 방식으로 변경한다." time="0"></testcase>
+  <testcase classname="단일 파일을 이동시키는 경우 1" name="용량이 1기가 이상이면 폴링한다." time="0"></testcase>
+</testsuite>
+</testsuites><?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="단일 파일을 이동시키는 경우 2" errors="0" tests="3" failures="0" time="0" timestamp="2016-08-02T17:25:11">
+  <testcase classname="단일 파일을 이동시키는 경우 2" name="용량이 1기가 미만이면 폴링하지않는다." time="0"></testcase>
+  <testcase classname="단일 파일을 이동시키는 경우 2" name="처리완료 되면 카운트를 변경한다." time="0"></testcase>
+  <testcase classname="단일 파일을 이동시키는 경우 2" name="프로그래스바를 숨긴다." time="0"></testcase>
+</testsuite>
+</testsuites>
